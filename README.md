@@ -186,7 +186,7 @@ Thank you for exploring Airbnb! Your feedback is valuable. If you have any sugge
 ![312038127-4277d539-f779-48db-92ca-222be5359baa](https://github.com/user-attachments/assets/51371965-3a85-4443-b68d-3c2bca67d01c)
 
 **Footer Page**
-![312038463-84f6e124-91aa-4dd9-b14b-d67781effe33](https://github.com/user-attachments/assets/3e8d6e8b-6637-4fe2-b8aa-77e271066341)
+![312044077-c8ff9e97-739e-44c4-8303-ca96b1153eec](https://github.com/user-attachments/assets/175a4a6c-be90-4946-aa94-3b7f0be4c175)
 
 **SignUp Page**
 ![312038741-d8753ac5-b237-4373-850c-99008137af5b](https://github.com/user-attachments/assets/18f1775d-4c6a-45c4-9813-dc304e1fa5d5)
