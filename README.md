@@ -182,53 +182,53 @@ Thank you for exploring Airbnb! Your feedback is valuable. If you have any sugge
 
 ## Ex- Image
 
-**Home Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/4277d539-f779-48db-92ca-222be5359baa)
+##Home Page
+![312038127-4277d539-f779-48db-92ca-222be5359baa](https://github.com/user-attachments/assets/51371965-3a85-4443-b68d-3c2bca67d01c)
 
 **Footer Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/84f6e124-91aa-4dd9-b14b-d67781effe33)
+![312038463-84f6e124-91aa-4dd9-b14b-d67781effe33](https://github.com/user-attachments/assets/3e8d6e8b-6637-4fe2-b8aa-77e271066341)
 
 **SignUp Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/d8753ac5-b237-4373-850c-99008137af5b)
+![312038741-d8753ac5-b237-4373-850c-99008137af5b](https://github.com/user-attachments/assets/18f1775d-4c6a-45c4-9813-dc304e1fa5d5)
 
 **LogIn Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/5bec0280-c4de-495d-93ac-1f9ae59df0c3)
+![312038997-5bec0280-c4de-495d-93ac-1f9ae59df0c3](https://github.com/user-attachments/assets/a6d34696-0499-4cdd-a605-e123cd74690e)
+
 
 **Profile Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/747c25a5-d912-422d-bbc4-f7304228ef3c)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/3efc00d6-e108-4847-a058-4bb271485cff)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/5455b5ba-2796-4de1-aefe-187435f84219)
+
 
 **Update Prifile**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/b229e0e7-c276-48ba-897a-dd8900aafc35)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/db42e30d-a24c-4b2c-a3c5-c2338ee4d5d7)
+
 
 **Confirmation Box**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/d8717db4-dbd1-491c-aa6d-356f4bcf3f31)
 
 **Alert Msg**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/70b4f767-fba9-4bc2-b0f1-efb700cc1cc3)
-![image](https://github.com/akashdeep023/Airbnb_Project/assets/126412088/b6857746-bdb7-4655-91bc-58deebe5bffc)
+ffc)
+![312040570-70b4f767-fba9-4bc2-b0f1-efb700cc1cc3](https://github.com/user-attachments/assets/86086975-96a1-402f-915e-391eedc9e449)
+![312039946-b6857746-bdb7-4655-91bc-58deebe5bffc](https://github.com/user-attachments/assets/247975e6-9fe2-4008-858e-968793f3db1e)
 
 **Loader**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/fad03cbb-fac8-463a-a09d-d871e87ad474)
+![312046084-fad03cbb-fac8-463a-a09d-d871e87ad474](https://github.com/user-attachments/assets/fcb2954f-842a-413b-ae71-782810f1a28d)
 
 **Create New Restaurant**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/bb3cc8be-5cf2-4902-8f34-948cda8a58e7)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/db343223-2996-489c-9089-d00238074970)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/00eb331a-74dc-4c77-bba3-35fa73b64c71)
+
+![312042389-bb3cc8be-5cf2-4902-8f34-948cda8a58e7](https://github.com/user-attachments/assets/bd49e1d7-e747-4050-a4a0-1c69fa16e6bf)
+![312042490-db343223-2996-489c-9089-d00238074970](https://github.com/user-attachments/assets/d0635ecd-da60-432b-b6f7-bcfae2082934)
 
 **Show Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/dc9b64d3-9348-4b6f-84c4-319b19df3aff)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/4d0ad659-0f7a-4189-919e-33274cbf95cc)
 
+![312042860-dc9b64d3-9348-4b6f-84c4-319b19df3aff](https://github.com/user-attachments/assets/a247654d-5181-40a7-8866-8f3722a90c52)
+![312043430-a2c161da-cebd-4154-b26b-45f4da77c4cb](https://github.com/user-attachments/assets/1e179cbf-9674-4534-9888-911b01dedd30)
 
 **Edit Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/0667a6ee-5136-460e-ae6f-c64bd9859388)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/60113611-b7ab-40df-a29a-75d32a49671c)
+![312043430-a2c161da-cebd-4154-b26b-45f4da77c4cb](https://github.com/user-attachments/assets/1d66beba-331c-47b5-bc93-42fb541e73e8)
+![312043632-0667a6ee-5136-460e-ae6f-c64bd9859388](https://github.com/user-attachments/assets/a48af8e4-b44f-4057-a7e3-b3f0b970cdbe)
+![312043713-60113611-b7ab-40df-a29a-75d32a49671c](https://github.com/user-attachments/assets/d354a901-1ba7-4423-80ea-bd045369aacc)
 
 **Filter Page**
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/6df98108-a1fc-462c-bda6-cf7563b6027e)
-![image](https://github.com/rajsinghritik/Airbnb_Project/assets/126412088/c8ff9e97-739e-44c4-8303-ca96b1153eec)
+![312043955-6df98108-a1fc-462c-bda6-cf7563b6027e](https://github.com/user-attachments/assets/52fe2673-13f4-4861-9530-51e81f1d7e37)
+![312044077-c8ff9e97-739e-44c4-8303-ca96b1153eec](https://github.com/user-attachments/assets/60e36eba-cb5e-4cfe-962c-3ab70ef2730d)
+
 
 ### Thanks for visit... 😊😊😊
