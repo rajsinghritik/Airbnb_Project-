@@ -164,11 +164,15 @@ Encountered challenges, especially with data handling, but implemented efficient
 
 A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at #ApnaCollege for their invaluable support and collaboration. As mentors and teachers, your guidance has been instrumental in shaping the success of this project. Your dedication to fostering learning and innovation has made a lasting impact, and I'm grateful for the opportunity to learn and grow under your mentorship.
 
-## Author
+## Author :
+   Ritik Raj
+   <br>
+   Email: rajsinghritik@gmail.com
+   <br>
+   LinkedIn : linkedin.com/in/ritikraj8
+## Website Link :
+   url : https://github.com/rajsinghritik/Amazon-Clone/
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
 
 ## Thank You
 
